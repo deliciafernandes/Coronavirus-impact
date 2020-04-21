@@ -6,5 +6,7 @@ From World Health Organization - On 31 December 2019, WHO was alerted to several
 
 So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
 
+>> Result:
+
 > Link to dataset:
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data
