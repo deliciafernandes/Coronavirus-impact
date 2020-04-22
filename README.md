@@ -7,11 +7,6 @@ From World Health Organization - On 31 December 2019, WHO was alerted to several
 So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
 
 > Result: 
-<p align="center">
- <br />
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
- ![visualization](https://media.giphy.com/media/VgSfYTNQbLjqljdttI/giphy.gif)
-</p>
 ![visualization](https://media.giphy.com/media/VgSfYTNQbLjqljdttI/giphy.gif)
 
 > Link to dataset:
